@@ -1,0 +1,25 @@
+<view class='home'>
+  <view class="banner">
+    <swiper class="banner-swiper"
+    autoplay,
+    circular,
+    interval="2000"
+    indicator-dots
+    >
+   <swiper-item>
+    
+      <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=729382916,2146689896&fm=26&gp=0.jpg" class="slide-image" width="355" height="150" /></swiper-item>
+
+     <swiper-item>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547095428448&di=c48b941d2a712b1a48a56614a6c99b6e&imgtype=0&src=http%3A%2F%2Fpic32.photophoto.cn%2F20140915%2F0034034424700073_b.jpg" class="slide-image" width="355" height="150" /></swiper-item> 
+        <swiper-item>
+      <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547095428442&di=b5d745df5f1384c67ebd8c98f4641329&imgtype=0&src=http%3A%2F%2Fpic36.photophoto.cn%2F20150812%2F0033033907240876_b.jpg" class="slide-image" width="355" height="150" /></swiper-item> 
+      
+    </swiper>
+  </view>
+</view>
+
+<view class='list'>
+
+
+</view>
